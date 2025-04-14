@@ -1,13 +1,13 @@
 {
 	"name": "spotify-clone",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A real-time Spotify clone application with music playback and chat functionality",
 	"main": "index.js",
 	"scripts": {
 		"build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
 		"start": "npm start --prefix backend"
 	},
-	"keywords": [],
+	"keywords": ["spotify", "music", "streaming", "real-time", "chat"],
 	"author": "",
 	"license": "ISC"
 }
